@@ -1,0 +1,55 @@
+C++ Workshop
+Learn advanced C++ features
+2024 5 10 18 0
+15
+https://example.com/cpp_workshop
+Python for Beginners
+Introductory Python course
+2024 5 12 10 0
+25
+https://example.com/python_intro
+Web Technologies
+Discuss latest web technologies
+2024 5 15 19 30
+40
+https://example.com/web_meetup
+Data Science Seminar
+Exploring algorithms
+2024 6 1 14 0
+30
+https://example.com/ds_seminar
+Game Developing
+Start developing a game in 48h
+2024 6 7 18 0
+50
+https://example.com/game_jam
+Art Exhibition Opening
+Local artists showcase
+2024 6 10 17 0
+60
+https://example.com/art_exhibit
+Live Music Night
+Live performances of local artists
+2024 6 15 20 0
+75
+https://example.com/music_night
+Book Club Meeting
+Discussing 'Dune'
+2024 6 20 19 0
+10
+https://example.com/book_club
+Outdoor Yoga
+Morning yoga session in the park
+2024 7 5 8 0
+22
+https://example.com/yoga_park
+Tech Conference
+Annual tech industry conference
+2024 7 18 9 0
+150
+https://example.com/tech_conf
+Cooking Class
+Italian Cuisine
+2024 7 22 18 30
+12
+https://example.com/cooking_italian
